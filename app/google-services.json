@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "137768163015",
+    "project_id": "analyticsexm"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137768163015:android:4c955e3dac818a1b",
+        "android_client_info": {
+          "package_name": "id.kido1611.googleanalytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJmtwaxohGemrtKqkbvFw7U9SW0Ucu03M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-77843297-2"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
